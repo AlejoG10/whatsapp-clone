@@ -1,0 +1,17 @@
+export { default as bg } from "./bg.webp";
+export { default as wapp } from "./wapp.png";
+export { default as cs1 } from "./cs1.png";
+export { default as cs2 } from "./cs2.jpeg";
+export { default as chat1 } from "./chat1.png";
+export { default as chat2 } from "./chat2.png";
+export { default as chat3 } from "./chat3.png";
+export { default as chat4 } from "./chat4.png";
+export { default as chat5 } from "./chat5.png";
+export { default as chat6 } from "./chat6.png";
+export { default as chat7 } from "./chat7.png";
+export { default as chat8 } from "./chat8.png";
+export { default as chat9 } from "./chat9.png";
+export { default as chat10 } from "./chat10.png";
+export { default as chat11 } from "./chat11.png";
+export { default as chat12 } from "./chat12.png";
+export { default as chat13 } from "./chat13.png";
