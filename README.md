@@ -1,1 +1,1 @@
-# WhatsApp Desktop Application Clone
+# WhatsApp's Desktop Application Clone
